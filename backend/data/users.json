@@ -1,0 +1,65 @@
+[
+  {
+    "email": "admin@food.fo",
+    "username": "admin",
+    "first_name": "admin",
+    "last_name": "a",
+    "password": 123
+  },
+  {
+    "email": "review@email.admin",
+    "username": "review",
+    "first_name": "review",
+    "last_name": "revieweroв",
+    "password": 123
+  },
+  {
+    "email": "kp-p@ya.ru",
+    "username": "Аэродинамика",
+    "first_name": "Н",
+    "last_name": "К",
+    "password": 123
+  },
+  {
+    "email": "ivanov@food.fo",
+    "username": "ivanov",
+    "first_name": "ivan",
+    "last_name": "ivanov",
+    "password": 123
+  },
+  {
+    "email": "kp-p@ya.ru",
+    "username": "Аэродинамика",
+    "first_name": "Н",
+    "last_name": "К",
+    "password": 123
+  },
+  {
+    "email": "kp-p@ya.ru",
+    "username": "Аэродинамика",
+    "first_name": "Н",
+    "last_name": "К",
+    "password": 123
+  },
+  {
+    "email": "popov@food.fo",
+    "username": "popov",
+    "first_name": "petr",
+    "last_name": "popov",
+    "password": 123
+  },
+  {
+    "email": "adm@food.fo",
+    "username": "adm",
+    "first_name": "admin",
+    "last_name": "a",
+    "password": 123
+  },
+  {
+    "email": "adm@food.fo",
+    "username": "adm",
+    "first_name": "admin",
+    "last_name": "a",
+    "password": 123
+  }
+]

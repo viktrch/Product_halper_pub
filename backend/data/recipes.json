@@ -1,0 +1,485 @@
+[
+  {
+    "tags": [
+      {
+        "id": 1,
+        "name": "Завтрак",
+        "color": "#E26C2D",
+        "slug": "breakfast"
+      }
+    ],
+    "author": {
+      "email": "adm@food.fo",
+      "username": "adm",
+      "first_name": "admin",
+      "last_name": "a",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 1081,
+        "name": "мука",
+        "measurement_unit": "г",
+        "amount": 100
+      },
+      {
+        "id": 245,
+        "name": "вишня",
+        "measurement_unit": "г",
+        "amount": 50
+      }
+    ],
+    "name": "Чизкейк",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_M1F3YqI.jpeg",
+    "text": "Чизкейк с вишней",
+    "cooking_time": 10
+  },
+  {
+    "tags": [
+      {
+        "id": 1,
+        "name": "Завтрак",
+        "color": "#E26C2D",
+        "slug": "breakfast"
+      },
+      {
+        "id": 2,
+        "name": "Обед",
+        "color": "#008000",
+        "slug": "dinner"
+      },
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "review@email.admin",
+      "username": "review",
+      "first_name": "review",
+      "last_name": "revieweroв",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 2140,
+        "name": "яблоки антоновка",
+        "measurement_unit": "кг",
+        "amount": 12
+      }
+    ],
+    "name": "яблоко",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_30irUcG.jpeg",
+    "text": "фв",
+    "cooking_time": 13
+  },
+  {
+    "tags": [
+      {
+        "id": 1,
+        "name": "Завтрак",
+        "color": "#E26C2D",
+        "slug": "breakfast"
+      },
+      {
+        "id": 2,
+        "name": "Обед",
+        "color": "#008000",
+        "slug": "dinner"
+      },
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "kp-p@ya.ru",
+      "username": "Аэродинамика",
+      "first_name": "Н",
+      "last_name": "К",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 1053,
+        "name": "морковь",
+        "measurement_unit": "г",
+        "amount": 1000
+      },
+      {
+        "id": 1032,
+        "name": "молоко",
+        "measurement_unit": "г",
+        "amount": 170
+      },
+      {
+        "id": 959,
+        "name": "манная крупа",
+        "measurement_unit": "г",
+        "amount": 170
+      },
+      {
+        "id": 2182,
+        "name": "яйца куриные",
+        "measurement_unit": "г",
+        "amount": 30
+      },
+      {
+        "id": 1547,
+        "name": "сахар",
+        "measurement_unit": "г",
+        "amount": 30
+      }
+    ],
+    "name": "Морковные котлеты",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_ESwwaew.jpeg",
+    "text": "Нарежь морковь соломкой, сложи в кастрюлю, залей молоком, добавь 1 ст.л. масла, сахар и специи, и туши на среднем огне, пока морковь не размякнет. Добавь манку, перемешай смесь и протуши еще 7 минут. Добавь в массу желтки, перемешай, охлади и сформируй котлетки. Если хочешь обвалять их в панировке, сначала обмакни во взбитый белок. Обжарь с двух сторон.",
+    "cooking_time": 25
+  },
+  {
+    "tags": [
+      {
+        "id": 1,
+        "name": "Завтрак",
+        "color": "#E26C2D",
+        "slug": "breakfast"
+      }
+    ],
+    "author": {
+      "email": "ivanov@food.fo",
+      "username": "ivanov",
+      "first_name": "ivan",
+      "last_name": "ivanov",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 1994,
+        "name": "хлеб бородинский",
+        "measurement_unit": "кусок",
+        "amount": 5
+      },
+      {
+        "id": 1647,
+        "name": "сливочное масло",
+        "measurement_unit": "г",
+        "amount": 30
+      },
+      {
+        "id": 1685,
+        "name": "соль",
+        "measurement_unit": "г",
+        "amount": 10
+      }
+    ],
+    "name": "Гренки",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_6Mvvpa8.jpeg",
+    "text": "гренки — ломтики батона, обжаренные в яично-молочной смеси. Максимально простой завтрак, готовится за несколько минут, а утром, согласитесь, это очень важно. Именно за простоту и быстроту многие любят гренки на завтрак.",
+    "cooking_time": 5
+  },
+  {
+    "tags": [
+      {
+        "id": 2,
+        "name": "Обед",
+        "color": "#008000",
+        "slug": "dinner"
+      },
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "kp-p@ya.ru",
+      "username": "Аэродинамика",
+      "first_name": "Н",
+      "last_name": "К",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 780,
+        "name": "куриное филе",
+        "measurement_unit": "г",
+        "amount": 300
+      },
+      {
+        "id": 1751,
+        "name": "сыр",
+        "measurement_unit": "г",
+        "amount": 100
+      },
+      {
+        "id": 435,
+        "name": "зелень",
+        "measurement_unit": "г",
+        "amount": 20
+      },
+      {
+        "id": 2057,
+        "name": "чеснок",
+        "measurement_unit": "г",
+        "amount": 30
+      },
+      {
+        "id": 1081,
+        "name": "мука",
+        "measurement_unit": "г",
+        "amount": 100
+      },
+      {
+        "id": 1420,
+        "name": "растительное масло",
+        "measurement_unit": "г",
+        "amount": 30
+      }
+    ],
+    "name": "Куриные рулетики с сыром",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_EWikDgy.jpeg",
+    "text": "Нарежь курицу тонкими ломтиками, отбей, присыпь специями и смажь давленым чесноком. На край каждого кусочка положи тертый сыр с рублено зеленью и сформируй рулетик, подворачивая все края и закрепляя зубочистками. Каждый рулетик обваляй в муке и обжарь в растительном масле, а перед подачей достань зубочистки.",
+    "cooking_time": 20
+  },
+  {
+    "tags": [
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "kp-p@ya.ru",
+      "username": "Аэродинамика",
+      "first_name": "Н",
+      "last_name": "К",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 474,
+        "name": "индейка филе",
+        "measurement_unit": "г",
+        "amount": 330
+      },
+      {
+        "id": 1443,
+        "name": "рис басмати",
+        "measurement_unit": "г",
+        "amount": 140
+      },
+      {
+        "id": 1053,
+        "name": "морковь",
+        "measurement_unit": "г",
+        "amount": 70
+      },
+      {
+        "id": 886,
+        "name": "лук репчатый",
+        "measurement_unit": "г",
+        "amount": 70
+      },
+      {
+        "id": 440,
+        "name": "зира",
+        "measurement_unit": "г",
+        "amount": 10
+      },
+      {
+        "id": 803,
+        "name": "куркума",
+        "measurement_unit": "г",
+        "amount": 10
+      },
+      {
+        "id": 1685,
+        "name": "соль",
+        "measurement_unit": "г",
+        "amount": 1
+      },
+      {
+        "id": 1335,
+        "name": "подсолнечное масло",
+        "measurement_unit": "г",
+        "amount": 40
+      }
+    ],
+    "name": "Рис с индейкой",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_9xRfGis.jpeg",
+    "text": "Филе индейки нарежьте кубиками среднего размера. В сковороде разогрейте подсолнечное масло и обжарьте на нём кусочки индейки на сильном огне около 5 минут. За это время лук и морковь очистите, промойте. Лук нарежьте мелкими кубиками, а морковь - соломкой. Переложите овощи в сковороду к обжаренному индюшиному мясу. Продолжайте обжаривать индейку теперь уже с овощами, часто помешивая, ещё около 3-4 минут. Затем в сковороду влейте кипяток (80 мл), накройте крышкой и тушите содержимое около 10 минут на медленном огне. После в сковороду всыпьте рис, соль, перец, куркуму, зиру. На среднем огне обжарьте содержимое сковороды 2-3 минуты, постоянно перемешивая, чтобы рис пропитался маслом. Влейте оставшийся кипяток (300-320 мл) в сковороду и перемешайте (соотношение риса и воды примерно 1:2). Доведите содержимое сковороды до кипения. Затем убавьте нагрев до минимума, накройте сковороду крышкой и готовьте рис с индейкой примерно 20-25 минут, до впитывания жидкости и готовности риса.",
+    "cooking_time": 45
+  },
+  {
+    "tags": [
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "popov@food.fo",
+      "username": "popov",
+      "first_name": "petr",
+      "last_name": "popov",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 14,
+        "name": "айвовое пюре",
+        "measurement_unit": "г",
+        "amount": 10
+      },
+      {
+        "id": 1685,
+        "name": "соль",
+        "measurement_unit": "г",
+        "amount": 20
+      },
+      {
+        "id": 83,
+        "name": "баклажаны",
+        "measurement_unit": "по вкусу",
+        "amount": 200
+      },
+      {
+        "id": 1292,
+        "name": "перец чили сухой",
+        "measurement_unit": "ст. л.",
+        "amount": 5
+      }
+    ],
+    "name": "Баклажаны по-корейски с имбирём",
+    "image": "http://profood.sytes.net/media/recipes/images/Depositphotos_218464942_xl-2015_1563786413-e1563786532469-640x320.jpg",
+    "text": "Смешайте воду, соевый соус, сахар, измельчённые чеснок и имбирь, кунжутное масло, крахмал и чили. Нарежьте баклажан крупными брусочками, а лук — четвертинками колец.",
+    "cooking_time": 30
+  },
+  {
+    "tags": [
+      {
+        "id": 2,
+        "name": "Обед",
+        "color": "#008000",
+        "slug": "dinner"
+      }
+    ],
+    "author": {
+      "email": "adm@food.fo",
+      "username": "adm",
+      "first_name": "admin",
+      "last_name": "a",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 556,
+        "name": "картофель",
+        "measurement_unit": "г",
+        "amount": 200
+      },
+      {
+        "id": 2182,
+        "name": "яйца куриные",
+        "measurement_unit": "г",
+        "amount": 220
+      },
+      {
+        "id": 1427,
+        "name": "редис",
+        "measurement_unit": "г",
+        "amount": 100
+      },
+      {
+        "id": 1138,
+        "name": "огурцы",
+        "measurement_unit": "г",
+        "amount": 200
+      },
+      {
+        "id": 1685,
+        "name": "соль",
+        "measurement_unit": "г",
+        "amount": 30
+      }
+    ],
+    "name": "Окрошка на кефире",
+    "image": "http://profood.sytes.net/media/recipes/images/rec_yUsgWja.jpeg",
+    "text": "Окрошка на кефире для многих ещё более непонятная штука, чем окрошка на квасе. Почитатели первой и второй — два непримиримых лагеря, почти как те, кто разбивает яйца с тупой стороны и те, кто именуют себя остроконечниками. Мы не хотим вступать не в один лагерь, а просто чётко, вдумчиво и с душой расскажем как приготовить окрошку на кефире.\n\nКонечно, нет единой рецептуры окрошки, но есть рекомендации как залитую жидкостью массу из измельченных овощей, натурального животного белка и зелени превратить в гармоничное блюдо — русское национальное достояние. Помня про эту русскую душу окрошки, мы не рекомендуем проводить над ней опыты по добавлению в рецептуру заморских продуктов. Даже уже почти своя рукола здесь не нужна!",
+    "cooking_time": 30
+  },
+  {
+    "tags": [
+      {
+        "id": 2,
+        "name": "Обед",
+        "color": "#008000",
+        "slug": "dinner"
+      },
+      {
+        "id": 3,
+        "name": "Ужин",
+        "color": "#0000FF",
+        "slug": "supper"
+      }
+    ],
+    "author": {
+      "email": "adm@food.fo",
+      "username": "adm",
+      "first_name": "admin",
+      "last_name": "a",
+      "password": 123
+    },
+    "ingredients": [
+      {
+        "id": 1138,
+        "name": "огурцы",
+        "measurement_unit": "г",
+        "amount": 200
+      },
+      {
+        "id": 1342,
+        "name": "помидоры",
+        "measurement_unit": "г",
+        "amount": 200
+      },
+      {
+        "id": 878,
+        "name": "лук белый",
+        "measurement_unit": "по вкусу",
+        "amount": 20
+      },
+      {
+        "id": 1685,
+        "name": "соль",
+        "measurement_unit": "г",
+        "amount": 10
+      },
+      {
+        "id": 1420,
+        "name": "растительное масло",
+        "measurement_unit": "г",
+        "amount": 35
+      },
+      {
+        "id": 11,
+        "name": "аджика",
+        "measurement_unit": "г",
+        "amount": 5
+      }
+    ],
+    "name": "Салат летний",
+    "image": "http://profood.sytes.net/media/recipes/images/rec.jpeg",
+    "text": "Вкусный салат из сезонных продуктов — это отличная идея для летнего периода, когда особенно хочется легкости, больше пользы и витаминов. Свежие овощи и ароматная зелень прекрасно дополнят обеденное меню. А если вы хотите приготовить диетический ужин, сочный летний салат будет как нельзя кстати.",
+    "cooking_time": 10
+  }
+]
